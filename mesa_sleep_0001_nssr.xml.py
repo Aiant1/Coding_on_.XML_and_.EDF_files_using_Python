@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep  6 16:11:09 2018
-
-@author: ASUS
-"""
 
 # -*- coding: utf-8 -*-
 """
