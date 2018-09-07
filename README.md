@@ -1,1 +1,4 @@
-# Coding_on_.XML_and_.EDF_files_using_Python
+Convert .EDF to .CSV files
+Extract Time and Flow for each 1/32seconds interval
+
+Extract information from .XML file and convert it to .CSV files
